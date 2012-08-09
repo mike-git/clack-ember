@@ -1,4 +1,4 @@
 clack-ember
 ===========
 
-common lisp glue to stick clack, cavemen and emberjs together
+common lisp glue to stick clack, cavemen and emberjs together.
